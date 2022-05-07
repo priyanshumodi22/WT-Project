@@ -14,7 +14,7 @@ Topics Covered -
 - OOP Principles
 - A simple program, compiling and executing
 ```
-It's a responsive website with sections made for the given topics.
+It's a responsive website for the given topics.
 
 ### 
 ### Features :-  
